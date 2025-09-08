@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Placeholder logo boxes */
+.placeholder-box {
+  @apply bg-gray-200 dark:bg-gray-700 rounded-2xl border border-gray-300 dark:border-gray-600;
+}
+
