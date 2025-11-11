@@ -35,7 +35,7 @@ export default function ProjectDetail() {
           <div className="flex items-center gap-3">
             <Image src="/images/logo.png" alt="Logo CV Argatama" width={50} height={50} />
             <div>
-              <h1 className="font-bold text-base md:text-lg uppercase">CV. Argatama Teknik Sejahtera</h1>
+              <h1 className="font-bold text-base md:text-lg uppercase">Argatama Teknik Sejahtera</h1>
               <p className="text-xs md:text-sm text-gray-600 dark:text-gray-300">Specialist Boiler, Air Compressor & Hydrant</p>
             </div>
           </div>
@@ -142,7 +142,7 @@ export default function ProjectDetail() {
 
         {/* === FOOTER === */}
         <footer className="bg-gray-800 text-gray-300 py-8 text-center">
-          <p className="mb-2">&copy; {new Date().getFullYear()} CV. Argatama Teknik Sejahtera. All Rights Reserved.</p>
+          <p className="mb-2">&copy; {new Date().getFullYear()} Argatama Teknik Sejahtera. All Rights Reserved.</p>
           <div className="text-sm space-y-1 md:space-y-0 md:flex md:justify-center md:gap-4">
             <span>Office: <a href="https://maps.app.goo.gl/YZM8corkt4dr7BRL8" target="_blank" rel="noopener noreferrer" className="underline text-blue-400">Jl. Sawo No. 37, Depok</a></span>
             <span>Workshop: <a href="https://maps.app.goo.gl/iYe7PSy7W6c7ATut8" target="_blank" rel="noopener noreferrer" className="underline text-blue-400">Jl. Grafika No.III, Depok</a></span>
