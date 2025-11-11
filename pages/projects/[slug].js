@@ -33,7 +33,7 @@ export default function ProjectDetail() {
       <header className="fixed top-0 w-full bg-white/90 dark:bg-gray-900/90 backdrop-blur shadow z-50">
         <div className="max-w-7xl mx-auto flex justify-between items-center px-4 py-3">
           <div className="flex items-center gap-3">
-            <Image src="/images/logo.png" alt="Logo CV Argatama" width={50} height={50} />
+            <Image src="/images/logo.png" alt="Logo Argatama" width={50} height={50} />
             <div>
               <h1 className="font-bold text-base md:text-lg uppercase">Argatama Teknik Sejahtera</h1>
               <p className="text-xs md:text-sm text-gray-600 dark:text-gray-300">Specialist Boiler, Air Compressor & Hydrant</p>
